@@ -38,6 +38,6 @@
           
   Step 2: Install required dependencies by command `npm install`
 
-  Step 3: Opne terminal navigate to frontEnd, backEnd, admin and run by command FE:-`npm run dev`  BE:-`npm run server` admin:-`npm run dev`
+  Step 3: Open terminal navigate to frontEnd, backEnd, admin and run by command FE:-`npm run dev`  BE:-`npm run server` admin:-`npm run dev`
   
   Step 4: Open browser and insert URLs FE:-`http://localhost:1212` BE:-`http://localhost:1213` 
